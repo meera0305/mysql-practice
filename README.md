@@ -15,4 +15,3 @@ This repository contains basic to advanced MySQL practice queries organized by t
 2. Open `.sql` files in any MySQL tool (like MySQL Workbench, XAMPP, phpMyAdmin)
 3. Practice and edit queries as needed
 
-Happy Learning! 🚀
