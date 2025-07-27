@@ -6,4 +6,4 @@ CREATE TABLE students (
   name VARCHAR(100),
   age INT,
   course VARCHAR(100)
-);
+); 
