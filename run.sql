@@ -52,7 +52,7 @@ SELECT * FROM student_info;
 DELIMITER $$
 
 CREATE PROCEDURE GetAllStudents()
-BEGIN
+BEGIN 
   SELECT * FROM students;
 END$$
 
