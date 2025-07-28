@@ -4,7 +4,6 @@ CREATE TABLE courses (
 );
 
 INSERT INTO courses (course_name) VALUES ('Java'), ('Python'), ('MySQL');
-
 SELECT s.name, c.course_name 
 FROM students s 
 JOIN courses c ON s.course = c.course_name;
