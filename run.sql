@@ -9,7 +9,7 @@ CREATE TABLE students (
   age INT,
   course VARCHAR(100)
 );
-
+   
 CREATE TABLE courses (
   course_id INT AUTO_INCREMENT PRIMARY KEY,
   course_name VARCHAR(100)
