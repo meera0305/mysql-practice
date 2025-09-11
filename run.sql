@@ -4,7 +4,7 @@ USE my_practice_db;
 
 -- 🔸 2. Create Tables
 CREATE TABLE students (
-  id INT AUTO_INCREMENT PRIMARY KEY,
+  id INT AUTO_INCREMENT PRIMARY KEY,  
   name VARCHAR(100),
   age INT,
   course VARCHAR(100)
