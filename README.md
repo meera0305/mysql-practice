@@ -6,7 +6,7 @@ This repository contains basic to advanced MySQL practice queries organized by t
 - Creating Databases & Tables
 - Constraints (Primary Key, Foreign Key)
 - SELECT Queries
-- Joins (INNER, LEFT, RIGHT)
+- Joins (INNER, LEFT, RIGHT)    
 - Subqueries
 - Views
 
