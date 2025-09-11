@@ -2,7 +2,7 @@ DELIMITER $$
 
 CREATE PROCEDURE GetAllStudents()
 BEGIN
-  SELECT * FROM students;
+  SELECT * FROM students;  
 END$$
 
 DELIMITER ;
